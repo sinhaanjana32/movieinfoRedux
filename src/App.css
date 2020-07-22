@@ -1,0 +1,48 @@
+body {
+  background: no-repeat center center fixed;
+  -Webkit-background: cover;
+  -moz-background: cover;
+  -o-background: cover;
+  background-size: cover;
+  overflow-x: hidden !important;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  
+}
+
+
+#movies img,
+#movie img {
+  width: 100%;
+}
+.brand-text {
+  font-size: 2rem;
+}
+
+#imdb-logo {
+  color: #f5de50;
+}
+
+body {
+  background-color: #0f4c75;
+}
+
+
+@media (min-width: 960px) {
+  #movies .col-md-3 .well {
+    height: 390px;
+  }
+
+  #movies .col-md-3 img {
+    height: 240px;
+  }
+}
+
+.navbar{
+  background-color: #1b262c;
+}
+
+.footer{
+  background-color: #1b262c;
+}
