@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movieinfoRedux/static/css/main.591906e1.chunk.css",
+    "main.js": "/movieinfoRedux/static/js/main.9f0513f9.chunk.js",
+    "main.js.map": "/movieinfoRedux/static/js/main.9f0513f9.chunk.js.map",
+    "runtime-main.js": "/movieinfoRedux/static/js/runtime-main.196f4a86.js",
+    "runtime-main.js.map": "/movieinfoRedux/static/js/runtime-main.196f4a86.js.map",
+    "static/js/2.6331a71f.chunk.js": "/movieinfoRedux/static/js/2.6331a71f.chunk.js",
+    "static/js/2.6331a71f.chunk.js.map": "/movieinfoRedux/static/js/2.6331a71f.chunk.js.map",
+    "index.html": "/movieinfoRedux/index.html",
+    "precache-manifest.93b9a739354b2d3b717cc37e6f637984.js": "/movieinfoRedux/precache-manifest.93b9a739354b2d3b717cc37e6f637984.js",
+    "service-worker.js": "/movieinfoRedux/service-worker.js",
+    "static/css/main.591906e1.chunk.css.map": "/movieinfoRedux/static/css/main.591906e1.chunk.css.map",
+    "static/js/2.6331a71f.chunk.js.LICENSE.txt": "/movieinfoRedux/static/js/2.6331a71f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.196f4a86.js",
+    "static/js/2.6331a71f.chunk.js",
+    "static/css/main.591906e1.chunk.css",
+    "static/js/main.9f0513f9.chunk.js"
+  ]
+}
